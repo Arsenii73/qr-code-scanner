@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "https://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>edu.qrscanner</string>
+    <key>CFBundleName</key>
+    <string>Real-Time QR Code Scanner</string>
+    <key>NSCameraUsageDescription</key>
+    <string>The scanner uses your camera to recognize QR codes on this computer.</string>
+</dict>
+</plist>
